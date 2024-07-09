@@ -1,6 +1,6 @@
-👋 ¡Hola!
+👋 Hello!
 
-Soy Jorge Benítez y le estoy dando una vuelta a mi web.  [¿Me acompañas?](https://jorgebenitezlopez.com/)
+I'm turning my website over in my mind. Would you like to join me? [web](https://jorgebenitezlopez.com/)
 
 <div align="center">
   <table>
